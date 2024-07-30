@@ -1,0 +1,19 @@
+{
+  "name": "threejs-object-selection",
+  "version": "1.0.0",
+  "description": "This demo shows you how to select objects in Three.js using raycasting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "vite": "^5.3.5"
+  },
+  "dependencies": {
+    "three": "^0.167.0"
+  }
+}
